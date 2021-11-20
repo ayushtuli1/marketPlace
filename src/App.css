@@ -7,6 +7,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+.error {
+  color: red;
+}
 
 .visually-hidden {
   clip: rect(0 0 0 0);
